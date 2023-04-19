@@ -1,4 +1,6 @@
-# Boas vindas ao repositório do projeto One For All
+# One For All
+
+![preview](database-image.jpg)
 
 No projeto ***One For All***, você usará **algumas** tabelas para revisar e consolidar **todos** os principais conceitos vistos até o momento.
 
