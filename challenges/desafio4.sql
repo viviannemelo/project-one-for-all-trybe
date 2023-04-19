@@ -1,0 +1,8 @@
+-- SELECT
+--   nome_usuario AS pessoa_usuaria,
+--     IF (MAX(historicos.data_reproducao > '2020'), 'Ativa', 'Inativa') AS status_pessoa_usuaria
+-- FROM SpotifyClone.usuarios
+-- INNER JOIN SpotifyClone.historicos
+-- ON usuarios.usuario_id = historicos.usuario_id
+-- GROUP BY pessoa_usuaria
+-- ORDER BY pessoa_usuaria;
